@@ -1,39 +1,89 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! 👋 I'm Akshay Sharma
 
 ## 🚀 About Me
 
-🎓 I am Akshay Sharma, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing **Master of Computer Applications** from **NIT Raipur** and will graduate in mid-2024.
+💻 I am a **Software Developer** with 1.5+ years of professional experience working on enterprise-level banking applications.
 
-✈️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **travelling**, **exploring new technologies** and **Body Building**.
+🎓 I completed my **Master of Computer Applications (MCA)** from **National Institute of Technology (NIT) Raipur**.
 
-## 🛠️ Skills
+🏦 Currently, I have worked on live banking projects including **Santander Bank (Spain)**, building scalable backend services and APIs.
 
-### Languages
+🌱 I’m passionate about:
+- Backend Development (Java + Spring Boot)
+- System Design & APIs
+- Problem Solving (DSA)
+- Building scalable web applications
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+✈️ Outside tech, I enjoy **travelling**, **fitness & bodybuilding**, and exploring new technologies.
 
-### Front-End Development
+---
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+## 🛠️ Tech Stack
 
-### Database
+### 💻 Languages
+- Java
+- JavaScript
+- SQL
+- C++
+- C
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+### ⚙️ Backend Development
+- Spring Boot
+- REST APIs
+- Microservices Architecture
+- Unit Testing
+- Hibernate / JPA
 
-## 🔗 Links
+### 🎨 Frontend Development
+- React.js
+- Material UI
+- Tailwind CSS
+- HTML5
+- CSS3
+- Bootstrap
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshaysharma274/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akshay2742)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/akshay2742)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_sharma274/)
+### 🗄️ Database
+- MySQL
+- Oracle SQL
+
+### 🔧 Tools & Practices
+- Git & GitHub
+- Agile Methodology
+- Postman
+- Maven
+- CI/CD Basics
+
+---
+
+## 💼 Professional Experience
+
+### 🏦 Software Developer  
+Worked on enterprise banking applications:
+
+- Developed and enhanced **REST APIs** using Spring Boot.
+- Contributed to Trade & Lending modules.
+- Worked with SQL optimization and database queries.
+- Followed Agile practices with sprint planning and code reviews.
+- Implemented unit testing and debugging production issues.
+
+---
+
+## 📈 What I'm Currently Focused On
+
+- Advanced System Design
+- Improving DSA for product-based companies
+- Writing clean, scalable backend code
+- Exploring full-stack architecture
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/akshaysharma274/
+- 💻 GitHub: https://github.com/akshay2742
+- 📧 Email: akshaysharma274@gmail.com
+- 📸 Instagram: https://www.instagram.com/akshay_sharma274/
+
+---
+
+⭐️ *Always open to exciting backend or full-stack opportunities.*
